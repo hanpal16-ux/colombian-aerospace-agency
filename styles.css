@@ -1,0 +1,371 @@
+/*Final project*/
+
+.finalprojectpage{
+background-color: rgba(114, 114, 114, 0.274);
+margin: 0;
+font-family: sans-serif;
+}
+
+#towardtitlle{
+font-family: sans-serif;
+font-weight: 900;
+font-size: 60px;
+text-transform: uppercase;
+margin-bottom: 20px;
+line-height: 1.1;
+}
+
+
+.home-container{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: row;
+gap: 60px;
+padding: 50px;
+margin: 0 auto;
+max-width: 1500px;
+
+}
+
+.main-image1{
+width: 100%;
+height: auto;
+border-radius: 20px;
+padding: 50px 60px;
+border-style: groove;
+}
+
+.img-firspage{
+    border-radius: 40px;
+}
+
+#maintext{
+text-align: left;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+
+}
+
+.list-item{
+display: flex;
+justify-content: space-around;
+list-style: none;
+padding: 20px;
+margin: 0;
+background-color: rgb(144, 144, 145);
+align-items: center;
+font-size: 18px;
+}
+
+
+
+/*Nav list*/
+
+.nav-item{
+text-decoration: none;
+padding: 10px 15px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(250, 250, 250);
+font-weight: bold;
+}
+
+
+/*Footer area*/
+.item-footer{
+
+   background-color: rgb(144, 144, 145);
+   font-size: 30px;
+   padding: 15px;
+   margin: 0;
+   align-items: center;
+   
+}
+
+/*Mission */
+.imgMission{
+width: 50%;
+height: auto;
+border-style: groove;
+border-radius: 15%;
+padding: 45px;
+
+}
+
+#missiontitle{
+font-family: sans-serif;
+font-weight: 900;
+font-size: 60px;
+text-transform: uppercase;
+margin-bottom: 20px;
+line-height: 1.1;
+
+}
+
+.mission-container{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: row;
+gap: 70px;
+padding: 5%;
+margin: 20px;
+max-width: 2900px;
+   
+}
+
+.missionmaintext{
+width: 50%;
+font-size: 25px;
+color: hwb(0 8% 92%);
+text-align: left;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.missionmaintext1{
+width: 50%;
+font-size: 25px;
+color: hwb(0 8% 92%);
+text-align: left;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/*History*/
+
+.History-title{
+font-family: sans-serif;
+font-weight: 900;
+font-size: 60px;
+text-transform: uppercase;
+margin-bottom: 20px;
+line-height: 1.1;
+
+}
+
+.History-container{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: row;
+gap: 150px;
+padding: 5px;
+margin: 0 auto;
+max-width: 2500px;
+
+}
+
+.parrafo_historia{
+    width: 50%;
+text-align: left;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+justify-content: right;
+
+}
+
+.histoypicture{
+border-radius: 50px;
+width: 1000px;
+border-style: groove;
+padding: 50px;
+}
+
+/*Shop*/
+
+.shoptitle{
+font-family: sans-serif;
+font-weight: 900;
+font-size: 60px;
+text-transform: uppercase;
+margin-bottom: 20px;
+line-height: 1.1;
+}
+
+#itemforsale{
+display: flex;
+margin: 20px;
+padding: 22px;
+align-items: center;
+max-width: 1600px;
+}
+
+#itemforsale{
+width: 20%;
+height: auto;
+border-radius: 20px;
+padding: 5px;
+border-style: groove;
+margin: 5%;
+}
+
+.buy1{
+    padding-top: 15px;
+    padd
+}
+
+.glass1{
+    font-size: 40px;
+}
+
+.headset1
+{
+    font-size: 40px;
+}
+
+.headset2{
+    font-size: 40px;
+}
+
+.glasses2{
+    font-size: 40px;
+}
+
+.telescope1{
+    font-size: 40px;
+}
+
+.telescope2{
+    font-size: 40px;
+}
+
+button:hover{
+    background-color: burlywood;
+}
+
+button:active{
+
+    color: aqua;
+}
+
+button{
+    font-size: 45px;
+}
+
+.img-glass 
+
+/*Contact*/
+
+.imag-contact{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: left;
+gap: 20px;
+padding: 20px;
+max-width: 1500px;
+border-radius: 200px;
+width: 100%;
+
+}
+.imag-contact{
+width: 45%;
+height: auto;
+border-radius: 20px;
+padding: 50px;
+border-style: groove;
+margin-top: 40px;
+
+}
+
+.label1{
+width: 300px;
+height: 10px;
+border-radius: 15px;
+padding: 10px;
+border: 6px solid black;
+text-align: left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: px;
+margin-left: 0;
+}
+
+
+.info{
+text-align: left;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+
+}
+
+.textco{
+    font-size: 30px;
+font-style: ;
+}
+
+.contacttitle{
+font-family: sans-serif;
+font-weight: 900;
+font-size: 60px;
+text-transform: uppercase;
+margin-bottom: 20px;
+line-height: 1.1;
+}
+
+/*Terms*/
+
+.terms-container{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    margin-left: 60px 60px;
+    font-size: 35px;
+}
+
+.termandprtitle{
+font-family: sans-serif;
+font-weight: 900;
+font-size: 60px;
+text-transform: uppercase;
+margin-bottom: 20px;
+line-height: 1.1;
+}
+
+/*Phone style*/
+@media(max-width:768px) {
+
+.list-item{
+    flex-direction: column;
+    gap: 15px;
+    font-size: 20px;
+}
+
+.home-container, .mission-container, .History-container{
+flex-direction: column;
+padding: 20px;
+gap: 30px
+
+}
+
+.main-image1, .imgMission, .histoypicture, .imag-contact, .missionmaintext, .missionmaintext1, .parrafo_historia{
+width: 100%;
+max-width: 100%;
+margin-left: 0;
+padding: 10px;
+}
+
+.imag-contact{
+width: 60%;
+align-items: center;
+padding: 20px;
+margin: 20px;
+
+}
+
+.label1{
+    width: 40%;
+    font-size: 16px;
+    height: 50px;
+    margin-left: 0;
+}
+.towardtitlle, #missiontitle, .History-container,.shoptitle, .contacttitle{
+font-size: 35PX;
+text-align: center;
+
+}
+
+}
+
+
+
